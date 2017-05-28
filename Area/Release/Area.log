@@ -1,0 +1,19 @@
+﻿  Area.cpp
+  Area_Face.cpp
+  Создание кода...
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(36): warning C4793: getRand: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(57): warning C4793: mean: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(139): warning C4793: RandCount: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(88): warning C4793: variance: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(247): warning C4793: utilization: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(708): warning C4793: block::action: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+c:\users\murder\documents\visual studio 2015\projects\area\area\area.cpp(708): warning C4793: block::action: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Area.vcxproj -> C:\Users\Murder\Documents\Visual Studio 2015\Projects\Area\Release\Area.exe
